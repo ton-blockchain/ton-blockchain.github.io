@@ -238,12 +238,22 @@
 			"shard": -9223372036854775808
 		},
 		"@type": "validator.config.global",
-		"init_block": {
-			"file_hash": "3KN4akaw0/l19Z6/28B5JZICvFeg1lJOnBYGs/383QM=",
-			"seqno": 4879855,
-			"root_hash": "X/SU351korrfPpK10k+KdHjCh5qk85aC7qVtgkKBHKY=",
+		"init_block": 
+		      {
+			"file_hash": "jF3RTD+OyOoP+OI9oIjdV6M8EaOh9E+8+c3m5JkPYdg=",
+			"seqno": 5141579,
+			"root_hash": "6JSqIYIkW7y8IorxfbQBoXiuY3kXjcoYgQOxTJpjXXA=",
 			"workchain": -1,
 			"shard": -9223372036854775808
-		}
+		      },
+		    "hardforks": [ 
+		      {
+			"file_hash": "jF3RTD+OyOoP+OI9oIjdV6M8EaOh9E+8+c3m5JkPYdg=",
+			"seqno": 5141579,
+			"root_hash": "6JSqIYIkW7y8IorxfbQBoXiuY3kXjcoYgQOxTJpjXXA=",
+			"workchain": -1,
+			"shard": -9223372036854775808
+		      }
+		    ]
 	}
 }
