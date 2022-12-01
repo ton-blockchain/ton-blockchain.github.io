@@ -1,14 +1,6 @@
 {
 	"liteservers": [
 		{
-			"ip": -1903905862,
-			"port": 33599,
-			"id": {
-				"@type": "pub.ed25519",
-				"key": "VrBrkkxiB/EDNju0FpxMavfESFvtSk1uqZeNNhMT4rs="
-			}
-		},
-		{
 			"ip": 1959448750,
 			"port": 51281,
 			"id": {
@@ -17,19 +9,35 @@
 			}
 		},
 		{
+		    "ip": 1097649206,
+		    "port": 29296,
+		    "id": {
+		        "@type": "pub.ed25519",
+		        "key": "p2tSiaeSqX978BxE5zLxuTQM06WVDErf5/15QToxMYA="
+		    }
+		},
+		{
+		    "ip": -779010527,
+		    "port": 33906,
+		    "id": {
+		        "@type": "pub.ed25519",
+		        "key": "YMoRKsPhuUWBmgB+A6eU4/B377tBMUaXyDLDk3L0g1k="
+		    }
+		},
+		{
+		    "ip": -1870757257,
+		    "port": 52947,
+		    "id": {
+		        "@type": "pub.ed25519",
+		        "key": "KcOlJ7MJrhs3U9Pi4XjKEAaFbtm12Cw2QPKcR4bjV5M="
+		    }
+		},		
+		{
 			"ip": -1185526601,
 			"port": 58157,
 			"id": {
 				"@type": "pub.ed25519",
 				"key": "5v2dHtSclsGsZVbNVwTj4hQDso5xvQjzL/yPEHJevHk="
-			}
-		},
-		{
-			"ip": 1097633201,
-			"port": 17439,
-			"id": {
-				"@type": "pub.ed25519",
-				"key": "0MIADpLH4VQn+INHfm0FxGiuZZAA8JfTujRqQugkkA8="
 			}
 		},
 		{
@@ -41,21 +49,13 @@
 		    }
 		},
 		{
-		    "ip": -1587440875,
-		    "port": 2411,
-		    "id": {
-		        "@type": "pub.ed25519",
-		        "key": "/qYMangDWyMRqZl4tAH1gKBxwuvD54EKKGhNgBMQ1Tk="
-		    }
-		},
-		{
-		    "ip": 1097649206,
-		    "port": 29296,
-		    "id": {
-		        "@type": "pub.ed25519",
-		        "key": "p2tSiaeSqX978BxE5zLxuTQM06WVDErf5/15QToxMYA="
-		    }
-		}		
+			"ip": 1097633201,
+			"port": 17439,
+			"id": {
+				"@type": "pub.ed25519",
+				"key": "0MIADpLH4VQn+INHfm0FxGiuZZAA8JfTujRqQugkkA8="
+			}
+		}
 	],
 	"dht": {
 		"a": 3,
@@ -240,20 +240,35 @@
 		"@type": "validator.config.global",
 		"init_block": 
 		      {
-			"file_hash": "jF3RTD+OyOoP+OI9oIjdV6M8EaOh9E+8+c3m5JkPYdg=",
-			"seqno": 5141579,
-			"root_hash": "6JSqIYIkW7y8IorxfbQBoXiuY3kXjcoYgQOxTJpjXXA=",
+			"file_hash": "xRaxgUwgTXYFb16YnR+Q+VVsczLl6jmYwvzhQ/ncrh4=",
+			"seqno": 5176527,
+			"root_hash": "SoPLqMe9Dz26YJPOGDOHApTSe5i0kXFtRmRh/zPMGuI=",
 			"workchain": -1,
 			"shard": -9223372036854775808
 		      },
-		    "hardforks": [ 
+		"hardforks": [ 
 		      {
 			"file_hash": "jF3RTD+OyOoP+OI9oIjdV6M8EaOh9E+8+c3m5JkPYdg=",
 			"seqno": 5141579,
 			"root_hash": "6JSqIYIkW7y8IorxfbQBoXiuY3kXjcoYgQOxTJpjXXA=",
 			"workchain": -1,
 			"shard": -9223372036854775808
+		      }, 
+		      {
+			"file_hash": "WrNoMrn5UIVPDV/ug/VPjYatvde8TPvz5v1VYHCLPh8=",
+			"seqno": 5172980,
+			"root_hash": "054VCNNtUEwYGoRe1zjH+9b1q21/MeM+3fOo76Vcjes=",
+			"workchain": -1,
+			"shard": -9223372036854775808
+		      }, 
+		      {
+			"file_hash": "xRaxgUwgTXYFb16YnR+Q+VVsczLl6jmYwvzhQ/ncrh4=",
+			"seqno": 5176527,
+			"root_hash": "SoPLqMe9Dz26YJPOGDOHApTSe5i0kXFtRmRh/zPMGuI=",
+			"workchain": -1,
+			"shard": -9223372036854775808
 		      }
 		    ]
 	}
 }
+
