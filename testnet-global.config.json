@@ -240,9 +240,9 @@
 		"@type": "validator.config.global",
 		"init_block": 
 		      {
-			"file_hash": "xRaxgUwgTXYFb16YnR+Q+VVsczLl6jmYwvzhQ/ncrh4=",
-			"seqno": 5176527,
-			"root_hash": "SoPLqMe9Dz26YJPOGDOHApTSe5i0kXFtRmRh/zPMGuI=",
+			"file_hash": "GX59mjfkH6IWWCZTJVOE46ss33vruQJFMZ7SlIRkanc=",
+			"seqno": 5301490,
+			"root_hash": "M0k5zlc1MAkEQ7csTRFKodwQwfXGLcYOvaqTqwQrqoQ=",
 			"workchain": -1,
 			"shard": -9223372036854775808
 		      },
