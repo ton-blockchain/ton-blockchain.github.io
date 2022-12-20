@@ -222,7 +222,31 @@
 				    },
 				    "version": -1,
 				    "signature": "wH0HEVT6yAfZZAoD5bF6J3EZWdSFwBGl1ZpOfhxZ0Bp2u52tv8OzjeH8tlZ+geMLTG50Csn5nxSKP1tswTWwBg=="
-				}																
+				},
+				{
+				  "provided":"disintar",
+				  "@type": "dht.node",
+				  "id": {
+				    "@type": "pub.ed25519",
+				    "key": "GB1pg7eomnjKAGIts8okGw1Whe2zgie/+fTEWG7Q13g="
+				  },
+				  "addr_list": {
+				    "@type": "adnl.addressList",
+				    "addrs": [
+				      {
+					"@type": "adnl.address.udp",
+					"ip": 1336806917,
+					"port": 30224
+				      }
+				    ],
+				    "version": 0,
+				    "reinit_date": 0,
+				    "priority": 0,
+				    "expire_at": 0
+				  },
+				  "version": -1,
+				  "signature": "w4yGCNvlFdHef0TWF5jPb1gfTnOmhQ58Z6kxbbx2LOjnyISuKIk9jHHMWnFS63J+Nw/R71rhRVtO2pcMwXLjBw=="
+				}
 			],
 			"@type": "dht.nodes"
 		},
