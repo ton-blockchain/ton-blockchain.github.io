@@ -74,10 +74,10 @@
 		},
 		{
 			"ip": -2018162320,
-			"port": 49760,
+			"port": 22277,
 			"id": {
 				"@type": "pub.ed25519",
-				"key": "I++/fRgw5+002UqThnF3tN2FkQChlDyfFQolVsuNSOE="
+				"key": "1runGS/h6Pel2LRC46suIEKaOtAYWaDGA+cXeI4HXGo="
 			}
 		},
 		{
