@@ -122,10 +122,10 @@
 		},
 		{
 			"ip": -1185526389,
-			"port": 29896,
+			"port": 64842,
 			"id": {
 				"@type": "pub.ed25519",
-				"key": "hr63y8Ch9vzKRcBJZ7chUroGrg3WLTi7FiSiDZC0TK0="
+				"key": "cmpsvK5tBuW029x0WnLHV4NAzf5F0wxEagtbODtRvjI="
 			}
 		},
 		{
