@@ -441,30 +441,30 @@
 					"version": -1,
 					"signature": "o/rhtiUL3rvA08TKBcCn0DCiSjsNQdAv41aw7VVUig7ubaqJzYMv1cW3qMjxvsXn1BOugIheJm7voA1/brbtCg=="
 				},
-				{
-					"provided": "disintar",
-					"@type": "dht.node",
-					"id": {
-						"@type": "pub.ed25519",
-						"key": "GB1pg7eomnjKAGIts8okGw1Whe2zgie/+fTEWG7Q13g="
-					},
-					"addr_list": {
-						"@type": "adnl.addressList",
-						"addrs": [
-							{
-								"@type": "adnl.address.udp",
-								"ip": 1336806917,
-								"port": 30224
-							}
-						],
-						"version": 0,
-						"reinit_date": 0,
-						"priority": 0,
-						"expire_at": 0
-					},
-					"version": -1,
-					"signature": "w4yGCNvlFdHef0TWF5jPb1gfTnOmhQ58Z6kxbbx2LOjnyISuKIk9jHHMWnFS63J+Nw/R71rhRVtO2pcMwXLjBw=="
-				}
+                {
+                  "provided": "disintar",
+                  "@type": "dht.node",
+                  "id": {
+                    "@type": "pub.ed25519",
+                    "key": "xnxyZG5Q96y+Kcenw31yl6HMvv1q2rc0FaHBQoauk78="
+                  },
+                  "addr_list": {
+                    "@type": "adnl.addressList",
+                    "addrs": [
+                      {
+                        "@type": "adnl.address.udp",
+                        "ip": 401383446,
+                        "port": 30224
+                      }
+                    ],
+                    "version": 0,
+                    "reinit_date": 0,
+                    "priority": 0,
+                    "expire_at": 0
+                  },
+                  "version": -1,
+                  "signature": "L4deVidQphIF3M7bj5clvXx4OaJ5ye9Tg0YtTJuOrPgAXQ1W+BX3PpZiBiATaA1jtKhZsLCXqlCwSBq+NMfFBQ=="
+                }
 			],
 			"@type": "dht.nodes"
 		},
