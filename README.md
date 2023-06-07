@@ -9,18 +9,18 @@ Welcome to the TON Blockchain Configuration Repository. This Repository primaril
 
 The configuration files are composed of two main sections, `liteservers` and `dht`. Each section contains a list of server or node details.
 
-Sure, here is a simplified explanation of the structure of your `global.config.json` file:
+Simplified explanation of the structure of your `global.config.json` file:
 
 The JSON file comprises of two main sections: `liteservers` and `dht`.
 
-1. `liteservers`: This section contains an array of server objects. Each server object has three properties:
-    - `ip`: This is the IP address of the server, represented as an integer.
+1. `liteservers`: This section contains an array of public servers which can be used to retrieve information about actual state of blockchain: balances, transactions, blocks and network configs. Each server object has three properties:
+    - `ip`: This is the IP address of the server, represented as an signed 32bit integer.
     - `port`: This specifies the port number on which the server is operating.
     - `id`: This is an object that represents the server's identification. It has two properties:
         - `@type`: This describes the type of the public key, here it's `pub.ed25519`.
         - `key`: This holds the public key of the server, represented as a base64-encoded string.
 
-2. `dht`: This section defines properties for a distributed hash table (DHT). It has three properties:
+2. `dht`: This section defines properties for bootstrap distributed hash table (DHT) servers which can be used for finding peers during first node setup. It has three properties:
     - `a` and `k`: The precise role of these properties is not defined in your provided JSON, but generally, these could be parameters used in the Kademlia DHT (a common DHT variant), where 'k' typically represents the maximum number of contacts stored in a bucket and 'a' could be a related parameter.
     - `static_nodes`: This contains an array of node objects. Each node has multiple properties:
         - `@type`: This represents the type of the node, here it's `dht.node`.
