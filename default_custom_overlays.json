@@ -1,40 +1,40 @@
 {
 	"mainnet": {
 		"46F2E0365217E9DCFC1EB295A99375896F49B813D87BB023FDF0DDD3DD871F50": {
-				"msg_sender": true,
-				"msg_sender_priority": 9
+			"msg_sender": true,
+			"msg_sender_priority": 9
 		},
 		"5AD562752E909F3097AF28E889E9D18639D872A2311C1BAD8099AD256C224E1C": {
-				"msg_sender": true,
-				"msg_sender_priority": 9
+			"msg_sender": true,
+			"msg_sender_priority": 9
 		},
 		"7C738C71170377475DF5FAE89A268C56E42C275E41C92FF8B4993A13DDEC8D8D": {
-				"msg_sender": true,
-				"msg_sender_priority": 11
+			"msg_sender": true,
+			"msg_sender_priority": 11
 		},
 		"34AAC1E33661A7111FBA8F44542AFFA2E7AEA1B5C7C3AC17B856289DB083F586": {
-				"msg_sender": true,
-				"msg_sender_priority": 11
+			"msg_sender": true,
+			"msg_sender_priority": 11
 		},
 		"@validators": true
 	},
 	"testnet": {
-			"DF27B30444D07087863B77F8BD27BABA8E57EDECA393605F6610FDCB64FFECD1": {
-					"msg_sender": true,
-					"msg_sender_priority": 14
-			},
-			"B360D229CA597906ADFC522FAC3EB5F8AE9D80981693225E7083577A4F016118": {
-					"msg_sender": true,
-					"msg_sender_priority": 10
-			},
-			"F794DE0B21423B6F4C168C5652758E5743CD977ACE13B3B2BA88E28580D9BEDB": {
-					"msg_sender": true,
-					"msg_sender_priority": 10
-			},
-			"6447CEAC80573AF2ABCA741FC940BB690AC263DC4B779FB6609CE5E9A4B31AE1": {
-					"msg_sender": true,
-					"msg_sender_priority": 5
-			},
-			"@validators": true
+		"DF27B30444D07087863B77F8BD27BABA8E57EDECA393605F6610FDCB64FFECD1": {
+			"msg_sender": true,
+			"msg_sender_priority": 14
+		},
+		"B360D229CA597906ADFC522FAC3EB5F8AE9D80981693225E7083577A4F016118": {
+			"msg_sender": true,
+			"msg_sender_priority": 10
+		},
+		"F794DE0B21423B6F4C168C5652758E5743CD977ACE13B3B2BA88E28580D9BEDB": {
+			"msg_sender": true,
+			"msg_sender_priority": 10
+		},
+		"6447CEAC80573AF2ABCA741FC940BB690AC263DC4B779FB6609CE5E9A4B31AE1": {
+			"msg_sender": true,
+			"msg_sender_priority": 5
+		},
+		"@validators": true
 	}
 }
