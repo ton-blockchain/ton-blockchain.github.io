@@ -1,6 +1,6 @@
 {
   "deferring_enabled": true,
-  "defer_messages_after": 10,
+  "defer_messages_after": 150,
   "defer_out_queue_size_limit": 2048,
   "dispatch_phase_2_max_total": 150,
   "dispatch_phase_3_max_total": 150,
