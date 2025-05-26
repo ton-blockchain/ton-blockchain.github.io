@@ -3,7 +3,7 @@
 		{
 			"ip": 822907680,
 			"port": 27842,
-			"provided":"Beavis",
+			"provided":"Swiss",
 			"id": {
 				"@type": "pub.ed25519",
 				"key": "sU7QavX2F964iI9oToP9gffQpCQIoOLppeqL/pdPvpM="
@@ -12,7 +12,7 @@
 		{
 			"ip": -1468571697,
 			"port": 27787,
-			"provided":"Beavis",
+			"provided":"Swiss",
 			"id": {
 				"@type": "pub.ed25519",
 				"key": "Y/QVf6G5VDiKTZOKitbFVm067WsuocTN8Vg036A4zGk="
@@ -21,38 +21,38 @@
 		{
 			"ip": -1468575011,
 			"port": 51088,
-			"provided":"Beavis",
+			"provided":"Swiss",
 			"id": {
 				"@type": "pub.ed25519",
 				"key": "Sy5ghr3EahQd/1rDayzZXt5+inlfF+7kLfkZDJcU/ek="
 			}
 		},
 		{
-			"ip": 1844203537,
-			"port": 37537,
+		    "ip": 1844203589,
+		    "port": 49913,
 			"provided":"Neo",
-			"id": {
-				"@type": "pub.ed25519",
-				"key": "K1F7zEe0ETf+SwkefLS56hJE8x42sjCVsBJJuaY7nEA="
-			}
+		    "id": {
+		        "@type": "pub.ed25519",
+		        "key": "AxFZRHVD1qIO9Fyva52P4vC3tRvk8ac1KKOG0c6IVio="
+		    }
 		},
 		{
-			"ip": 1844203589,
-			"port": 34411,
+		    "ip": 1844203537,
+		    "port": 4330,
 			"provided":"Neo",
-			"id": {
-				"@type": "pub.ed25519",
-				"key": "pOpRRpIxDuMRm1qFUPpvVjD62vo8azkO0npw4FPcW/I="
-			}
+		    "id": {
+		        "@type": "pub.ed25519",
+		        "key": "IraRAKcsECFUwFRKXF23YeXAxrDMVWobbw8Hpb2m7Aw="
+		    }
 		},
 		{
-			"ip": 1047529523,
-			"port": 37649,
+		    "ip": 1047529523,
+		    "port": 36005,
 			"provided":"Neo",
-			"id": {
-				"@type": "pub.ed25519",
-				"key": "pRf2sAa7d+Chl8gDclWOMtthtxjKnLYeAIzk869mMvA="
-			}
+		    "id": {
+		        "@type": "pub.ed25519",
+		        "key": "39EIFy/IaCjgJSu1WvHJjD/mNbGI0c+bM/hrkCjzfrw="
+		    }
 		},
 		{
 			"ip": 1097633201,
