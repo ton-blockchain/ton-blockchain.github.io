@@ -209,9 +209,9 @@
 		"init_block": {
 			"workchain": -1,
 			"shard": -9223372036854775808,
-			"seqno": 17908219,
-			"root_hash": "y6qWqhCnLgzWHjUFmXysaiOljuK5xVoCRMLzUwGInVM=",
-			"file_hash": "Y/GziXxwuYte0AM4WT7tTWsCx+6rcfLpGmRaEQwhUKI="
+			"seqno": 58834988,
+			"root_hash": "jHEWFMBqUT4CbdFFby8Bo7W0EvWpn/GwUOI+mxAyMdk=",
+			"file_hash": "iYwlpFmaM76gtELoDsOHdGHqrIJLSX67vGcPfQd5Jdc="
 		},
 		"hardforks": [
 			{
