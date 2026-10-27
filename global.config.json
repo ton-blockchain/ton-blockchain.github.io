@@ -396,30 +396,6 @@
       }
     },
     {
-      "ip": -2018135749,
-      "port": 53312,
-      "id": {
-        "@type": "pub.ed25519",
-        "key": "aF91CuUHuuOv9rm2W5+O/4h38M3sRm40DtSdRxQhmtQ="
-      }
-    },
-    {
-      "ip": -2018145068,
-      "port": 13206,
-      "id": {
-        "@type": "pub.ed25519",
-        "key": "K0t3+IWLOXHYMvMcrGZDPs+pn58a17LFbnXoQkKc2xw="
-      }
-    },
-    {
-      "ip": -2018145059,
-      "port": 46995,
-      "id": {
-        "@type": "pub.ed25519",
-        "key": "wQE0MVhXNWUXpWiW5Bk8cAirIh5NNG3cZM1/fSVKIts="
-      }
-    },
-    {
       "ip": 1091931625,
       "port": 30131,
       "id": {
@@ -452,75 +428,11 @@
       }
     },
     {
-      "ip": -1539021362,
-      "port": 52995,
+      "ip": 622584298,
+      "port": 30003,
       "id": {
         "@type": "pub.ed25519",
-        "key": "QnGFe9kihW+TKacEvvxFWqVXeRxCB6ChjjhNTrL7+/k="
-      }
-    },
-    {
-      "ip": -1539021936,
-      "port": 20334,
-      "id": {
-        "@type": "pub.ed25519",
-        "key": "gyLh12v4hBRtyBygvvbbO2HqEtgl+ojpeRJKt4gkMq0="
-      }
-    },
-    {
-      "ip": -1136338705,
-      "port": 19925,
-      "id": {
-        "@type": "pub.ed25519",
-        "key": "ucho5bEkufbKN1JR1BGHpkObq602whJn3Q3UwhtgSo4="
-      }
-    },
-    {
-      "ip": 868465979,
-      "port": 19434,
-      "id": {
-        "@type": "pub.ed25519",
-        "key": "J5CwYXuCZWVPgiFPW+NY2roBwDWpRRtANHSTYTRSVtI="
-      }
-    },
-    {
-      "ip": 868466060,
-      "port": 23067,
-      "id": {
-        "@type": "pub.ed25519",
-        "key": "vX8d0i31zB0prVuZK8fBkt37WnEpuEHrb7PElk4FJ1o="
-      }
-    },
-    {
-      "ip": -2018147130,
-      "port": 53560,
-      "id": {
-        "@type": "pub.ed25519",
-        "key": "NlYhh/xf4uQpE+7EzgorPHqIaqildznrpajJTRRH2HU="
-      }
-    },
-    {
-      "ip": -2018147075,
-      "port": 46529,
-      "id": {
-        "@type": "pub.ed25519",
-        "key": "jLO6yoooqUQqg4/1QXflpv2qGCoXmzZCR+bOsYJ2hxw="
-      }
-    },
-    {
-      "ip": 908566172,
-      "port": 51565,
-      "id": {
-        "@type": "pub.ed25519",
-        "key": "TDg+ILLlRugRB4Kpg3wXjPcoc+d+Eeb7kuVe16CS9z8="
-      }
-    },
-    {
-      "ip": -1185526007,
-      "port": 4701,
-      "id": {
-        "@type": "pub.ed25519",
-        "key": "G6cNAr6wXBBByWDzddEWP5xMFsAcp6y13fXA8Q7EJlM="
+        "key": "H/gTsgEqlLpp13HHTk+nuF8danWEcOlPcdWBBcH1Ars="
       }
     }
   ],
